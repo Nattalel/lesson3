@@ -1,0 +1,19 @@
+* {
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.box {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	width: 1000px;
+	height: 400px;
+	background-color: #aeaeae;
+}
+.child {
+	width: 300px;
+	height: 200px
+}
